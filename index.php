@@ -6,3 +6,4 @@ $myApp = new App();
 
 <!-- test git -->
 <!-- test git 2 update -->
+<!-- test merge conflict -->
