@@ -27,6 +27,7 @@ class Home extends Controller{
     function tranngoc(){
         $tranngoc = 123;
         return $tranngoc;
+        echo"test fetch";
     }
 }
 ?>
